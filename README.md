@@ -70,9 +70,10 @@ I'm a hands-on engineering leader with **17+ years** of experience building, mod
 
 | AWS | Kubernetes & Python |
 |-----|---------------------|
-| Solutions Architect - Professional | CKAD: Certified Kubernetes Application Developer |
-| DevOps Engineer - Professional | PCAP: Certified Associate Python Programmer |
-| Security - Specialty | PCEP: Certified Entry-Level Python Programmer |
+| Generative AI Developer - Professional | CKAD: Certified Kubernetes Application Developer |
+| Solutions Architect - Professional | PCAP: Certified Associate Python Programmer |
+| DevOps Engineer - Professional | PCEP: Certified Entry-Level Python Programmer |
+| Security - Specialty | |
 | Machine Learning Engineer - Associate | |
 | Solutions Architect - Associate | |
 | Developer - Associate | |
@@ -80,7 +81,7 @@ I'm a hands-on engineering leader with **17+ years** of experience building, mod
 | AI Practitioner | |
 | Cloud Practitioner | |
 
-> Plus 8 previously held certifications across Azure and Terraform, and currently pursuing **AWS Certified Generative AI Developer - Professional**.
+> Plus 8 previously held certifications across Azure and Terraform.
 
 ---
 
