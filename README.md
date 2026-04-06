@@ -96,6 +96,6 @@ I'm a hands-on engineering leader with **17+ years** of experience building, mod
 ### Currently
 
 - 🔭 Scaling enterprise platforms on AWS and leading cloud migration initiatives
-- 🌱 Pursuing my Master's at Georgia Tech and the AWS Generative AI Developer certification
+- 🌱 Pursuing my Master's at Georgia Tech
 - 💬 Ask me about **cloud migration, Kubernetes, DevOps, or modernizing .NET apps for AWS**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/byates/)
